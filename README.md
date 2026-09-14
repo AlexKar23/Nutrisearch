@@ -1,5 +1,14 @@
 # 🥗 NutriSearch — Bot Nutricional Inteligente con n8n, Selenium & RAG
 
+🚀 INFORMACIÓN DEL PROYECTO
+
+✨ Este proyecto ha sido creado a través de N8N y Código.
+
+🔌 Ambas versiones contienen APIs.
+
+📬 Si necesita acceso, por favor contacte.
+
+
 **NutriSearch** es una plataforma integral y automatizada para la asistencia nutricional, comparación de alimentos y generación de planes de alimentación personalizados basada en el catálogo real de supermercados (ej. *Dia*, *Ahorramas*)[cite: 10, 12, 13]. 
 
 El sistema utiliza flujos de trabajo en **n8n**, un motor de extracción visual con **Selenium** y visión artificial multimodal con **Llama-4 en Groq**, bases de datos internas en n8n Data Tables, y un agente conversacional **RAG (Retrieval-Augmented Generation)** desplegado en **Telegram** con integración a **Google Calendar** y **SMTP (Email)**.
